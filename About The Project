@@ -2,7 +2,7 @@ Files:
 ------
 Data - Survey Monkey Output : Contains Raw Data and Excel operations cleaned up Data
 Final Desired Output : Answers to certain questions about the survey and final desired format.
-Script1 : Python Script for EDA
+Script1 : Python Script for EDA (Pandas)
 
 Questions:
 ----------
